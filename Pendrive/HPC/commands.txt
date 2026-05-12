@@ -1,3 +1,0 @@
-g++ -fopenmp HPCL_Exp_01.cpp -o EXP1
-g++ -fopenmp HPCL_Exp_02.cpp -o EXP2
-g++ -fopenmp HPCL_Exp_03.cpp -o EXP3
